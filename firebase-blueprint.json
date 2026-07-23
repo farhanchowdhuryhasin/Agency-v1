@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "firestore": {
+      "settings": {
+        "read": "true",
+        "write": "true"
+      }
+    }
+  }
+}
